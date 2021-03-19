@@ -22,6 +22,11 @@ Cell cell = row.getCell(0);
 System.out.println(cell);
 
 
+
 //Adding new line
 //sample
+	}
+	public void newMethod() {
+System.out.println("Avoid conflicts");
+	
 }}
